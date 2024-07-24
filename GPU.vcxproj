@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <CudaCompile Include="mine\MatMul.cu" />
+    <CudaCompile Include="main\MatMul.cu" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{00890F55-CE40-4E57-99CE-95A970803C26}</ProjectGuid>
